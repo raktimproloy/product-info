@@ -1,0 +1,14 @@
+
+.showMore{
+    cursor: pointer;
+    display: none;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+.displayImg{
+    height: 50%;
+}

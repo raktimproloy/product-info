@@ -1,0 +1,25 @@
+.loginContainer{
+    width: 100%;
+    height: 100vh;
+}
+.loginMain{
+    background-color: #1117d6a8;
+    padding: 7% 5%;
+    color: white;
+}
+.signupMessage{
+    color: #57dd22;
+}
+.buttonContainer{
+    width: 100%;
+}
+.submitBtn{
+    background-color: #52a632;
+}
+.goSignupBtn{
+    width: 100%;
+}
+
+.errorText{
+    color: rgb(177, 35, 35);
+}

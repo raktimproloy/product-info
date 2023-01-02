@@ -1,0 +1,7 @@
+.navBgColor{
+    background-color: #1117d6a8;
+}
+.navBarContainer{
+    display: flex;
+    justify-content: space-between;
+}

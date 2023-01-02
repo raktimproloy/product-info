@@ -1,0 +1,21 @@
+HTML
+CSS
+Bootstrap
+JavaScript
+Node Js
+Express Js
+mongoDb
+
+jsonwebtoken
+dotenv
+multer
+ejs
+cookies-parser
+bcrypt
+
+Color
+#1119D6 = main
+#F2986D = design
+#555AF2 = button1
+#6FF23D = 
+#52A632 = button2

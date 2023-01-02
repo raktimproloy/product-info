@@ -1,0 +1,13 @@
+.titleSection{
+    background-color: #1117d6a8;
+    padding: 5% 4%;
+    width: 45%;
+    text-align: center;
+    height: 100%;
+}
+.imageContainer{
+    width: 50%;
+}
+.detailsImage{
+    width: 100%;
+}
